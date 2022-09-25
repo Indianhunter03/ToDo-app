@@ -1,0 +1,38 @@
+ul{
+    list-style: none;
+}
+#container{
+margin: auto;
+width: 450px;
+border-radius: 10px;
+border-color: black;
+background-color: aqua;
+padding: auto;
+margin-bottom: 15px;
+background-image: url("https://images.pexels.com/photos/370799/pexels-photo-370799.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+background-size: cover;
+box-shadow: 10px;
+}
+#List{
+    border-radius: 10px;
+    background-color: rgba(78, 89, 185, 0.331);
+    font-style:inherit;
+    border-width: 10px;
+    width: 450px;
+    margin: auto;
+
+}
+body{
+    background-size: cover;
+    background-color: bisque;
+    font-family:'Ubuntu', sans-serif;
+    background-image: url("https://images.pexels.com/photos/19670/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+}
+#Clearall{
+    padding: auto;
+margin-top: 15px;
+
+}
+.editor{
+    margin: 10px 0px;
+}
